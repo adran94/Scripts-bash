@@ -12,3 +12,4 @@ if [ $LONGITUD -ge 6 ]; then
 else
 	echo la contraseña debe tener al menos 6 caracteres
 fi
+
